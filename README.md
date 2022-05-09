@@ -1,2 +1,2 @@
 # Mini-project
-Game code 
+Console based game 
