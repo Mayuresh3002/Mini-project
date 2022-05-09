@@ -1,2 +1,2 @@
 # Mini-project
-Console based game 
+Console based project using python
